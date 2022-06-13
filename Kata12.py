@@ -9,3 +9,4 @@ def unique_in_order(iterable):
 
 
 print(unique_in_order("AAAABBBCCDAABBB"))
+ 

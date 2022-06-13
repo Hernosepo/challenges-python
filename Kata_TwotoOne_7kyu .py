@@ -2,7 +2,7 @@
 #string, the longest possible, containing distinct letters - each taken only once -
 #coming from s1 or s2.
 # Tengo 2 strings, tengo que imprimir 1 string donde se encuentren todas las letras
-# sin repetirlas y puede salir ordenado
+# sin repetirlas y puede salir ordenado 
 def longest(a1, a2):
     dict = []
     a3 = a1 + a2

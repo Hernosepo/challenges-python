@@ -3,4 +3,4 @@ def get_sum(a,b):
     for i in range(a,b):
         cero = cero + i
         return cero
-print(get_sum(0,1))
+print(get_sum(0,1)) 

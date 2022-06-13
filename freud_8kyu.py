@@ -8,4 +8,4 @@ def to_freud(sentence):
         return " ".join(list_of_words)
 
 
-print(to_freud("You're becoming a true freudian expert"))
+print(to_freud("You're becoming a true freudian expert")) 

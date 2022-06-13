@@ -7,7 +7,7 @@
 # Opcional   : nariz :    - or ~
 # Obligatorio: boca  :    ) or D
 
-# Posibles = :) :-) :~) :D :-D :~D ;) ;-) ;~) ;D ;-D ;~D
+# Posibles = :) :-) :~) :D :-D :~D ;) ;-) ;~) ;D ;-D ;~D 
 
 # No additional characters
 # fonts validos = [":",";","-","~",")","D"]

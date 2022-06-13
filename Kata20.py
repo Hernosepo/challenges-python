@@ -12,7 +12,7 @@ def bouncing_ball(h, bounce, window):
 print(bouncing_ball(-1,-1,0))
 
 
-
+ 
 #def bouncing_ball(h, bounce, window):
 #    bounces = 0
 #    if (bounce >= 1) or (bounce <=0) or (h <0) or (window<0) or (window==h):

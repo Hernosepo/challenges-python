@@ -10,4 +10,3 @@ def count(string):
 
 
 print(count("aba"))
-    

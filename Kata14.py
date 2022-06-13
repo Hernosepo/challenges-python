@@ -20,3 +20,4 @@ def remove_smallest(numbers):
         a.remove(min(a))
     return a
 print(remove_smallest([]))
+ 

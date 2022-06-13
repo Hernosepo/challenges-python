@@ -4,3 +4,4 @@ def find_even_index(arr):
             return i
     return -1
 print(find_even_index([20,10,30,10,10,15,35]))
+ 
